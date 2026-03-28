@@ -1,18 +1,50 @@
 ![Logo](https://i.postimg.cc/J41C8tkP/logo.jpg)
+# <img src="https://readme-typing-svg.herokuapp.com/?lines=Lisaaa(stop)&center=true&size=60&duration=3000&color=00FF00&vCenter=true&width=1000&background=000000&font=Fira+Code" alt="Lisaaa(stop)" />
+![Lisaaa(stop) Terminal](https://img.shields.io/badge/Lisaaa(stop)-000000?style=for-the-badge&logo=terminal&logoColor=00FF00)
+# <img src="https://readme-typing-svg.herokuapp.com/?lines=Lisaaa(stop);Hi,+I'm+Lisa&center=true&size=30&duration=3000&color=00FF00&vCenter=true&width=600" alt="Typing Banner" />
 
-## Hi there 👋
+# Hi, I'm Lisa
 
-<!--
-**lisastopit/lisastopit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- Student at **42**
+- Working with:
+  
+  ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00FF00) ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF00)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning:
+
+  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00FF00)
+
+- Interested in:
+
+  ![OSINT](https://img.shields.io/badge/OSINT-0d1117?style=for-the-badge&logo=protonmail&logoColor=00FF00)
+  ---
+  
+## Tech
+
+Languages: C, Python
+Focus: Cybersecurity, OSINT
+
+
+---
+
+## Projects
+
+- Building my own **OSINT tool**
+- Will be posting some **42 projects**
+- Also working on small **utilities**
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## Contact
+
+"Open to collaboration"
