@@ -8,18 +8,13 @@
 ## About me
 
 - Student at **42**
-- Working with:
-  
-  ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00FF00) ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF00)
+- Working with: ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00FF00) ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF00)
 
-- Currently learning:
+- Currently learning: ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00FF00)
 
-  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00FF00)
+- Interested in:  ![OSINT](https://img.shields.io/badge/OSINT-0d1117?style=for-the-badge&logo=protonmail&logoColor=00FF00)
 
-- Interested in:
-
-  ![OSINT](https://img.shields.io/badge/OSINT-0d1117?style=for-the-badge&logo=protonmail&logoColor=00FF00)
-  ---
+   ---
   
 ## Tech
 
@@ -39,10 +34,7 @@ Focus: Cybersecurity, OSINT
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
+![Logo](https://i.postimg.cc/wxR1CqNm/rick.jpg)
 ---
 
 ## Contact
