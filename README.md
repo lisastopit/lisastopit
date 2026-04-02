@@ -1,4 +1,3 @@
-![Logo](https://i.postimg.cc/J41C8tkP/logo.jpg)
 # <img src="https://readme-typing-svg.herokuapp.com/?lines=Lisaaa(stop)&center=true&size=60&duration=3000&color=00FF00&vCenter=true&width=1000&background=000000&font=Fira+Code" alt="Lisaaa(stop)" />
 ![Lisaaa(stop) Terminal](https://img.shields.io/badge/Lisaaa(stop)-000000?style=for-the-badge&logo=terminal&logoColor=00FF00)
 # <img src="https://readme-typing-svg.herokuapp.com/?lines=Lisaaa(stop);Hi,+I'm+Lisa&center=true&size=30&duration=3000&color=00FF00&vCenter=true&width=600" alt="Typing Banner" />
