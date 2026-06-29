@@ -35,19 +35,19 @@
 
 <table align="center" border="0" cellpadding="5">
   <tr>
-    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzJwd2tlZnk3MXozanplcDhkb2hvdTM0eHZrdHg2Z2duYmxkbDhmdSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/zIatAEDb9NwwAd3cYE/giphy.gif" width="150" /><br/><b>My Bike</b></td>
-    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9pMGR1Mnp3c3NuZXF2NDR4YTMyMGZsaGdseHU0eWkxdDNzNW9vbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O7PlgubmCJPC6TcdGk/giphy.gif" width="150" /><br/><b>My AK-47</b></td>
-    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9pMGR1Mnp3c3NuZXF2NDR4YTMyMGZsaGdseHU0eWkxdDNzNW9vbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pp0ENtPvbqggoCnb5m/giphy.gif" width="150" /><br/><b>Cash Money</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzJwd2tlZnk3MXozanplcDhkb2hvdTM0eHZrdHg2Z2duYmxkbDhmdSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/zIatAEDb9NwwAd3cYE/giphy.gif" width="150" /><br/><b>odin</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9pMGR1Mnp3c3NuZXF2NDR4YTMyMGZsaGdseHU0eWkxdDNzNW9vbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O7PlgubmCJPC6TcdGk/giphy.gif" width="150" /><br/><b>dva</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9pMGR1Mnp3c3NuZXF2NDR4YTMyMGZsaGdseHU0eWkxdDNzNW9vbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pp0ENtPvbqggoCnb5m/giphy.gif" width="150" /><br/><b>tri</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXMxc2J4djF6OWg4aWNjcXI1OGRrd2s1MmxlNHN4MWwydjI1MmgyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2aMW2yB1snn425ImII/giphy.gif" width="150" /><br/><b>Shopping</b></td>
-    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9pMGR1Mnp3c3NuZXF2NDR4YTMyMGZsaGdseHU0eWkxdDNzNW9vbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AxRDkohE4LkcyYc1Qs/giphy.gif" width="150" /><br/><b>Dancing Bear</b></td>
-    <td align="center"><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" /><br/><b>Shocked Cat</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXMxc2J4djF6OWg4aWNjcXI1OGRrd2s1MmxlNHN4MWwydjI1MmgyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2aMW2yB1snn425ImII/giphy.gif" width="150" /><br/><b>chetiri</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9pMGR1Mnp3c3NuZXF2NDR4YTMyMGZsaGdseHU0eWkxdDNzNW9vbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AxRDkohE4LkcyYc1Qs/giphy.gif" width="150" /><br/><b>piat</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" /><br/><b>shest</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZlcHZnMHp1MzhlNGc4ZGZldDIyOHk1NG9tN3h3MWZhaXg2ZjdvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/59R0UKkDxc7NS/giphy.gif"  width="150" /><br/><b>Monkey Dance</b></td>
-    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFxZGtvdnNoenozdDEwdWF4eXh4dWFpOXoxZHEybXpidWZyZGx2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPiqfUtLCnIKxRS/giphy.gif" width="150"  /><br/><b>Explosion</b></td>
-    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW11OWh0NjVtbXEyYTZlbXk5YnhwYzM4d3N5d3UxN3hjcnVxb2hnNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rozlnqOWqxqA8/giphy.gif" width="150" /><br/><b>Hacker Mode</b></td>
+    <td align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZlcHZnMHp1MzhlNGc4ZGZldDIyOHk1NG9tN3h3MWZhaXg2ZjdvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/59R0UKkDxc7NS/giphy.gif"  width="150" /><br/><b>sem</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFxZGtvdnNoenozdDEwdWF4eXh4dWFpOXoxZHEybXpidWZyZGx2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPiqfUtLCnIKxRS/giphy.gif" width="150"  /><br/><b>vosem</b></td>
+    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW11OWh0NjVtbXEyYTZlbXk5YnhwYzM4d3N5d3UxN3hjcnVxb2hnNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rozlnqOWqxqA8/giphy.gif" width="150" /><br/><b>deviat</b></td>
   </tr>
 </table>
 
