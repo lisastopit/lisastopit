@@ -1,5 +1,3 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?lines=Lisaaa(stop)&center=true&size=60&duration=3000&color=00FF00&vCenter=true&width=1000&background=000000&font=Fira+Code" alt="6767676767" />
-# <img src="https://readme-typing-svg.herokuapp.com/?lines=Lisaaa(stop);Hi,+I'm+Lisa&center=true&size=30&duration=3000&color=00FF00&vCenter=true&width=600" alt="Typing Banner" />
 
 <!-- ============================================ -->
 <!--            BRAINROT / MEME SECTION             -->
