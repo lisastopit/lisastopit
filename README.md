@@ -1,4 +1,47 @@
 
+---
+
+<!-- ============================================ -->
+<!--            SERIOUS / PROFESSIONAL PART        -->
+<!-- ============================================ -->
+
+# 👨‍💻 About Me
+
+I'm a student at **42** – a peer‑to‑peer coding school.  
+I enjoy low‑level programming, security, and digging deep into systems.
+
+- 🔭 **Currently working on:** building my own **OSINT tool** (Python + C)  
+- 🌱 **Currently learning:** Cybersecurity, Reverse Engineering  
+- 🤝 **Open to collaboration** on OSINT / security projects  
+---
+
+## 🛠 Tech Stack
+
+| **Languages**            | **Focus**                        | **Tools & Skills**                         |
+|--------------------------|----------------------------------|--------------------------------------------|
+| C, Python, Assembley     | Cybersecurity, OSINT, Networking | Wireshark, nmap, gdb, radare2, Docker, CTF |
+
+---
+
+## 📌 Projects
+
+- **OSINT Toolkit** – a modular reconnaissance framework (in progress)  
+- **42 School projects** – will be posting some of my best work here  
+- **Small utilities** – automation scripts, network sniffers, Docker containers for CTF
+
+---
+
+## 📫 Contact
+
+- Please contact me via Github 
+
+> *“Open to collaboration” – feel free to reach out!*
+
+---
+
+
+
+
 <!-- ============================================ -->
 <!--            BRAINROT / MEME SECTION             -->
 <!-- ============================================ -->
@@ -48,46 +91,6 @@
     <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW11OWh0NjVtbXEyYTZlbXk5YnhwYzM4d3N5d3UxN3hjcnVxb2hnNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rozlnqOWqxqA8/giphy.gif" width="150" /><br/><b>deviat</b></td>
   </tr>
 </table>
-
----
-
-<!-- ============================================ -->
-<!--            SERIOUS / PROFESSIONAL PART        -->
-<!-- ============================================ -->
-
-# 👨‍💻 About Me
-
-I'm a student at **42** – a peer‑to‑peer coding school.  
-I enjoy low‑level programming, security, and digging deep into systems.
-
-- 🔭 **Currently working on:** building my own **OSINT tool** (Python + C)  
-- 🌱 **Currently learning:** Cybersecurity, Reverse Engineering  
-- 🤝 **Open to collaboration** on OSINT / security projects  
----
-
-## 🛠 Tech Stack
-
-| **Languages**            | **Focus**                        | **Tools & Skills**                         |
-|--------------------------|----------------------------------|--------------------------------------------|
-| C, Python, Assembley     | Cybersecurity, OSINT, Networking | Wireshark, nmap, gdb, radare2, Docker, CTF |
-
----
-
-## 📌 Projects
-
-- **OSINT Toolkit** – a modular reconnaissance framework (in progress)  
-- **42 School projects** – will be posting some of my best work here  
-- **Small utilities** – automation scripts, network sniffers, Docker containers for CTF
-
----
-
-## 📫 Contact
-
-- Please contact me via Github 
-
-> *“Open to collaboration” – feel free to reach out!*
-
----
 
 
 
