@@ -11,8 +11,8 @@
 I'm a student at **42** – a peer‑to‑peer coding school.  
 I enjoy low‑level programming, security, and digging deep into systems.
 
-- 🔭 **Currently working on:** building my own **OSINT tool** (Python + C)  
-- 🌱 **Currently learning:** Cybersecurity, Reverse Engineering  
+- :smirk: **Currently working on:** building my own **OSINT tool** (Python + C)  
+- :smiling_imp: **Currently learning:** Cybersecurity, Reverse Engineering  
 - 🤝 **Open to collaboration** on OSINT / security projects  
 ---
 
