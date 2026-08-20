@@ -5,7 +5,8 @@
 <!--            SERIOUS / PROFESSIONAL PART        -->
 <!-- ============================================ -->
 
-# 👨‍💻 About Me
+# :wolf: About Me :dolphin:
+![vou](https://i.postimg.cc/C1TkQm7y/maxresdefault.jpg)
 
 I'm a student at **42** – a peer‑to‑peer coding school.  
 I enjoy low‑level programming, security, and digging deep into systems.
